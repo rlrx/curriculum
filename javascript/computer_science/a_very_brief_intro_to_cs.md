@@ -10,6 +10,8 @@ We're taking a look at some more Computer Science-y concepts here because they a
 
 If that doesn't get you interested, remember that this curriculum is meant to prepare you for life beyond the web page. If you're interested in applying for a job, you'll be asked questions that directly touch on some of this stuff.  It's going to require you to put on your thinking cap (sorry, it had to happen sometime), but we won't be doing anything too crazy. We'll stick to the practical side of this material as opposed to getting too stuck in theory.
 
+Computer science isn't difficult at all if you put in the time and effort to learn key concepts taught here. Good luck!
+
 ### Lesson overview
 
 This section contains a general overview of topics that you will learn in this lesson.
